@@ -1,6 +1,7 @@
 # Prac-1
 This repository includes the code developed for Prac 1
 
+# Question 4.2.2 - Frequency B
 The Problem I faced for the synchrnoiser based on the correlator principle: 
 
 After having frequency shifted the received sequence, I convolve it with the preamble (which is BPSK modulated as required). 
