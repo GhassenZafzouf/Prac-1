@@ -2,7 +2,7 @@
 This repository includes the code developed for Prac 1
 
 # Question 4.2.2 - Frequency B
-The Problem I faced for the synchrnoiser based on the correlator principle: 
+The Problem I faced for the synchroniser based on the correlator principle: 
 
 After having frequency shifted the received sequence, I convolve it with the preamble (which is BPSK modulated as required). 
 Afterwards, I try to find the start of the signal (the QPSK symbols) by looking for peaks in the result of the convolution. 
